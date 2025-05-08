@@ -15,7 +15,7 @@
 
 
 <section>
-  <h2>WELCOME</h2>
+  <h2><b>WELCOME</b></h2>
    :woman_technologist: About Me :
   
   - :telescope: I work as a frontend developer and develop web applications and websites.
