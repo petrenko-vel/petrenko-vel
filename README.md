@@ -5,10 +5,10 @@
 
   <div id="badges">
   <a href="your-telegram-URL">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Ft.me%2Fabaudnova_ololoeva?label=telegram" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/https%3A%2F%2Ft.me%2Fabaudnova_ololoeva?label=telegram" alt="Telegram"/>
   </a>
   <a href="vkontakte">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Vkontakte"/>
   </a>
 </div>
 </header>
