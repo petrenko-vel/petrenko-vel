@@ -2,7 +2,7 @@
   <div align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpmdHZiaGpyZGFpZ2FodnNhOHdmMHkyNXdjYWdmbXE1NG92cW52diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QhSqF2OV6l8tjk8hj/giphy.gif">
   </div>
-
+<h2>WRITE TO ME</h2>
 <div id="badges" align="center">
   <a href="https://t.me/abaudnova_ololoeva">
     <img src="https://img.shields.io/badge/telegram-badge?style=for-the-badge&logo=TELEGRAM&logoColor=%23fff&logoSize=auto&labelColor=%23518178&color=%23518178&cacheSeconds=https%3A%2F%2Ft.me%2Fabaudnova_ololoeva" alt="Telegram"/>  
@@ -17,6 +17,5 @@
 <section>
   <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
 </section>
