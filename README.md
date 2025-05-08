@@ -16,5 +16,5 @@
 
 <section>
   <h1>WELCOME</h1>
-   ### :woman_technologist: About Me :
+   :woman_technologist: About Me :
 </section>
