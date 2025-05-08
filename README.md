@@ -39,6 +39,14 @@
 
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrenko-vel&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+  <tr>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrenko-vel)](https://github.com/anuraghazra/github-readme-stats)</td>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrenko-vel&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)</td>
+  </tr>
+</table>
+
+
 
 
