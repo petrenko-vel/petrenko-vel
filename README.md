@@ -5,9 +5,9 @@
 
   <div id="badges">
   <a href="your-telegram-URL">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Ft.me%2Fabaudnova_ololoeva?label=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="Telegram"/>
   </a>
-  <a href="vkontakte">
+  <a href="your-vkontakte-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Vkontakte"/>
   </a>
 </div>
