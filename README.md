@@ -18,7 +18,7 @@
   <h1>WELCOME</h1>
    :woman_technologist: About Me :
   
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope: I work as a frontend developer and develop web applications and websites.
 
 - :seedling: Exploring Technical Content Writing.
 
