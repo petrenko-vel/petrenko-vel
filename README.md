@@ -22,5 +22,5 @@
 
 - :zap: In my free time, I travel and have my own blog.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :desktop_computer: I love learning, so my technology stack never stands still.
 </section>
