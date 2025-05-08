@@ -16,5 +16,5 @@
 
 <section>
   <h1>WELCOME</h1>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RqMGZ1MjhxcnM0MnE0dnlycXdvN3FsZnhnNGVvcTljZWY2cmpmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="баннер"/>
+   ### :woman_technologist: About Me :
 </section>
