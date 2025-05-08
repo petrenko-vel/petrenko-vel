@@ -5,7 +5,7 @@
 
   <div id="badges">
   <a href="your-telegram-URL">
-    <img src="https://t.me/abaudnova_ololoeva" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/https%3A%2F%2Ft.me%2Fabaudnova_ololoeva?label=telegram" alt="LinkedIn Badge"/>
   </a>
   <a href="vkontakte">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
