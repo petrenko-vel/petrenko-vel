@@ -24,7 +24,7 @@
 - :desktop_computer: I love learning, so my technology stack never stands still.
 </section>
 
- <br> <br>
+ <br><br></br></br>
 <section>
   ### :hammer_and_wrench: Languages and Tools :
   <br>
