@@ -1,5 +1,5 @@
   <div align="center">
-    https://github.com/user-attachments/assets/8a566bfa-8d83-41af-b752-4ae62dcfa084
+    <img src"https://github.com/user-attachments/assets/8a566bfa-8d83-41af-b752-4ae62dcfa084">
   </div>
 <h2 align="center">CONTACT WITH ME</h2>
 <div id="badges" align="center">
