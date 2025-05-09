@@ -1,6 +1,5 @@
   <div align="center">
-    <img src"https://github.com/user-attachments/assets/8a566bfa-8d83-41af-b752-4ae62dcfa084">
-
+   ![Frame 1](https://github.com/user-attachments/assets/8afe23cd-ea07-4715-bf13-2e1d0889291b)
 
   </div>
 <h2 align="center">CONTACT WITH ME</h2>
