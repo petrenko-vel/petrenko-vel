@@ -1,10 +1,6 @@
 
 ![Frame 1 (3)](https://github.com/user-attachments/assets/a8c758f3-a459-4940-811d-3d6238d0ff7b)
 
-<div align="center">
-
-
-  </div>
 <h2 align="center">CONTACT WITH ME</h2>
 <div id="badges" align="center">
   <a href="https://t.me/abaudnova_ololoeva">
