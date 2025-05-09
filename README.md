@@ -1,4 +1,6 @@
   <div align="center">
+    ![Frame 1 (3)](https://github.com/user-attachments/assets/8a566bfa-8d83-41af-b752-4ae62dcfa084)
+
     <img src="blob:https://web.telegram.org/dd46ae7a-8ebb-4c71-9593-2e298e45ad09">
     //https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpmdHZiaGpyZGFpZ2FodnNhOHdmMHkyNXdjYWdmbXE1NG92cW52diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QhSqF2OV6l8tjk8hj/giphy.gif
   </div>
