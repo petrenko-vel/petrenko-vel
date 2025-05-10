@@ -25,7 +25,7 @@
 </section>
  <br><br>
 <section>
-   :hammer_and_wrench: Languages and Tools :
+   :hammer_and_wrench: Языки и инструменты :
   <br><br>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
