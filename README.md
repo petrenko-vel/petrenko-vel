@@ -1,7 +1,7 @@
 
 ![Frame 1 (3)](https://github.com/user-attachments/assets/a8c758f3-a459-4940-811d-3d6238d0ff7b)
 
-<h2 align="center">CONTACT WITH ME</h2>
+<h2 align="center">Мои контакты</h2>
 <div id="badges" align="center">
   <a href="https://t.me/abaudnova_ololoeva">
     <img src="https://img.shields.io/badge/telegram-badge?style=for-the-badge&logo=TELEGRAM&logoColor=%23fff&logoSize=auto&labelColor=%23518178&color=%23518178&cacheSeconds=https%3A%2F%2Ft.me%2Fabaudnova_ololoeva" alt="Telegram"/>  
@@ -14,7 +14,7 @@
 
 
 <section>
-  <h2>About Me</h2>
+  <h2>Обо мне</h2>
   
   - :telescope: Хакатоны научили меня собирать работающие MVP за выходные (один из наших проектов даже попал в СМИ), а подача на гранты — упаковывать идеи в четкую документацию
 
