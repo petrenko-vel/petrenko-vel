@@ -17,11 +17,11 @@
   <h2>WELCOME</h2>
    :woman_technologist: About Me :
   
-  - :telescope: I work as a frontend developer and develop web applications and websites.
+  - :telescope: Хакатоны научили меня собирать работающие MVP за выходные (один из наших проектов даже попал в СМИ), а подача на гранты — упаковывать идеи в четкую документацию
 
-- :zap: In my free time, I travel and have my own blog.
+- :zap: Я глубоко разбираюсь в дизайне и хорошо понимаю логику интерфейса
 
-- :desktop_computer: I love learning, so my technology stack never stands still.
+- :desktop_computer: Я фанат эффективности. Активно использую Antigravity и GitHub Copilot, чтобы делегировать нейросетям рутину и фокусироваться на проектировании логики
 </section>
  <br><br>
 <section>
