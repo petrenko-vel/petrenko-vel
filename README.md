@@ -1,7 +1,7 @@
 
 ![Frame 1 (3)](https://github.com/user-attachments/assets/a8c758f3-a459-4940-811d-3d6238d0ff7b)
 
-# Валерия [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)]
+# Валерия (https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)]
 ### Frontend Developer | React, TypeScript
 
 ## Контактная информация:
@@ -49,7 +49,7 @@
 
 ***
 
-## <p align="center"> 💻 Обо мне:</p>
+## 💻 Обо мне:
 
 <p>
 Легко нахожу общий язык с людьми, умею адекватно оценивать сроки и заранее сигнализирую, если есть риск не уложиться
@@ -58,7 +58,6 @@
 </p>
 
 ***
-
 
 
 ## 🐍 GitHub Activity
