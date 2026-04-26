@@ -1,7 +1,7 @@
 
 ![Frame 1 (3)](https://github.com/user-attachments/assets/a8c758f3-a459-4940-811d-3d6238d0ff7b)
 
-# Валерия (https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)]
+# Валерия
 ### Frontend Developer | React, TypeScript
 
 ## Контактная информация:
