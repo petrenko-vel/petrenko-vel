@@ -1,45 +1,66 @@
 
 ![Frame 1 (3)](https://github.com/user-attachments/assets/a8c758f3-a459-4940-811d-3d6238d0ff7b)
 
-<h2 align="center">Мои контакты</h2>
-<div id="badges" align="center">
-  <a href="https://t.me/abaudnova_ololoeva">
-    <img src="https://img.shields.io/badge/telegram-badge?style=for-the-badge&logo=TELEGRAM&logoColor=%23fff&logoSize=auto&labelColor=%23518178&color=%23518178&cacheSeconds=https%3A%2F%2Ft.me%2Fabaudnova_ololoeva" alt="Telegram"/>  
-  </a>
-  <a href="https://vk.com/vll.petrenko">
-    <img src="https://img.shields.io/badge/vkontakte-badge?style=for-the-badge&logo=vk&logoColor=%23fff&logoSize=auto&labelColor=%23518178&color=%23518178" alt="Vkontakte"/>
-  </a>
-</div>
-</header>
+# Валерия [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)]
+### Frontend Developer | React, TypeScript
 
+## Контактная информация:
 
-<section>
-  <h2>Обо мне</h2>
-  
-  - :telescope: Хакатоны научили меня собирать работающие MVP за выходные (один из наших проектов даже попал в СМИ), а подача на гранты — упаковывать идеи в четкую документацию
+<p style="text-align: start">
+   📫 E-mail: <a href='mailto:proslera@yandex.ru'>proslera@yandex.ru</a>
+</p>
+<a href="https://t.me/vll_yatsuk" target="_blank">
+	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
-- :zap: Я глубоко разбираюсь в дизайне и хорошо понимаю логику интерфейса
+***
 
-- :desktop_computer: Я фанат эффективности. Активно использую Antigravity и GitHub Copilot, чтобы делегировать нейросетям рутину и фокусироваться на проектировании логики
-</section>
- <br><br>
-<section>
-   :hammer_and_wrench: Языки и инструменты :
-  <br><br>
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/npm/npm-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-</section>
+* 🧐 Фронтенд-разработчик самоучка
+* 💻 2+ лет опыта коммерческой разработки
+* 🎓 Учусь в университете по направлению _Информационные системы и технологии_
+*   Хакатоны научили меня собирать работающие MVP за выходные (один из наших проектов даже попал в СМИ), а подача на гранты — упаковывать идеи в четкую документацию
 
+***
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrenko-vel&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠 Ключевые навыки:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 
+## 🤝 Soft skills:
+
+* Learning agility: Обладаю высокой скоростью обучения и готовностью к быстрому изменению,
+  благодаря чему могу легко адаптироваться к новым условиям и технологиям
+* Опыт работы в командных проектах, где использовались Agile, Scrum и Kanban методологии
+* Обладаю безграничной тягой к обучению и развитию своих навыком
+* Регулярно участвую в хакатонах, где прокачала навык быстрой разработки MVP, работы в команде и принятия решений в условиях ограниченного времени
+* Параллельно занимаюсь подачей своих проектов на гранты в университете — это дало опыт упаковки технических идей в понятные и структурированные решения
+
+***
+
+## <p align="center"> 💻 Обо мне:</p>
+
+<p>
+Легко нахожу общий язык с людьми, умею адекватно оценивать сроки и заранее сигнализирую, если есть риск не уложиться
+В работе придерживаюсь принципа самостоятельности: сначала стараюсь разобраться сама, и только после этого обращаюсь за помощью
+Всегда на связи, быстро включаюсь в задачи и не теряюсь в новых условиях
+</p>
+
+***
+
+
+
+## 🐍 GitHub Activity
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
